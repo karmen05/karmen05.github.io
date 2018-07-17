@@ -1,0 +1,75 @@
+h1 {
+  color: hotpink;
+}
+
+h2{
+  color: purple;
+}
+
+p{
+  color: purple;
+}
+
+body{
+  background-color: yellow;
+}
+
+.hello{
+  transform: rotate(90deg);
+}
+
+#rotate, #rotate2{
+  transform: rotate(90deg);
+}
+
+#bro{
+  transform: rotate(90deg);
+}
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  font-size: 25px;
+}
+
+li{
+  font-size: 25px;
+}
+
+img{
+  border-radius: 10%
+}
+
+h1 {
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  border-left-width: thick;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-color: black;
+}
+
+h2{
+  color: pink;
+}
+
+h2{
+  font-size: 50px;
+}
+
+h2 {
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  border-left-width: thick;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-color: black;
+}
